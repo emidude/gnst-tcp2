@@ -1,0 +1,16 @@
+Assets/video/
+
+builds/
+
+
+Library/PlayerDataCache/
+
+Library/metadata/
+
+Library/ScriptAssemblies/
+
+Library/ShaderCache
+
+Temp/
+
+obj/

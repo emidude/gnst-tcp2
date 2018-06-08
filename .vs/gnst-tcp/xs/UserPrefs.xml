@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E69414B9-98F7-C69C-F1BC-DCC720439C44}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Client/ActorClient.cs">
+    <Files>
+      <File FileName="../Desktop/Emilyys Desktop/GNST-Unity/Unity4 - unsullied for previous unity verison/UnityVR5.6/client/Assets/Scripts/Client.cs" Line="80" Column="43" />
+      <File FileName="Assets/Scripts/Client/ActorClient.cs" Line="263" Column="28" />
+      <File FileName="Assets/Scripts/Client/Client.cs" Line="35" Column="36" />
+      <File FileName="Assets/Scripts/Server/Server.cs" Line="79" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
